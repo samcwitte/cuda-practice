@@ -3,6 +3,6 @@ This is where I'll keep all of my CUDA-related projects.
 
 ### List of projects:
 - [x] [Hello World](HelloWorld)
-- [x] Vector Adder
-- [x] Matrix Multiplier
-- [ ] Basic Image Processor
+- [x] [Vector Adder](VectorAdd)
+- [x] [Matrix Multiplier](MatrixMult)
+- [ ] [Basic Image Processor](ImageProcessing)
